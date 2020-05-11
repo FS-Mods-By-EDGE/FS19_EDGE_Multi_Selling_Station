@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 <modDesc descVersion="47">
     <author>EDGE Gaming / Castiga</author>
-    <version>1.5.0.0</version>
+    <version>2.0.0.0</version>
     <iconFilename>icon.png</iconFilename>
     <title><!-- en=English de=German jp=Japanese pl=Polish cz=Czech fr=French es=Spanish ru=Russian it=Italian pt=Portuguese hu=Hungary nl=Netherlands cs=Chinese (Simplified) ct=Chinese (Traditional) br=Brazilian-Portuguese tr=Turkish ro=Romanian kr=Korean -->
         <en>Multi Selling Station</en>
@@ -19,7 +19,9 @@ The Buildings have automatic lighting.
 Price:  10.000€
 Size:   13 x 12.5 Meters
 
-- Updated to support Seasons mod.]]></en>
+Changelog 2.0.0.0:
+- Updated to support Seasons better.
+- Added Support for tons of mod Filltypes.]]></en>
 
         <de><![CDATA[Multi Verkaufsstation. Hier können Sie alles verkaufen, was Sie möchten, von der Ernte bis zu Saatgut und Dünger.
 Die Verkaufspreise schwanken und erscheinen auf dem PDA / der Statistik.
@@ -116,6 +118,22 @@ Rozmiar:    13 x 12.5 Metrów
             <es>EDGE Bóveda De Grano Negra</es>
             <ru>EDGE Хранилище Зерна Черный</ru>
             <pl>EDGE Skarbiec Ziarna czarny</pl>
+        </text>
+        <text name="action_turnOnMarking">
+            <en>Show warning Stripes</en>
+            <de>Eckmarkierungen einblenden</de>
+            <fr>Afficher les rayures d'avertissement</fr>
+            <es>Mostrar franjas de advertencia</es>
+            <ru>Показать предупреждение полосы</ru>
+            <pl>Pokaż paski ostrzegawcze</pl>
+        </text>
+        <text name="action_turnOffMarking">
+            <en>Hide warning Stripes</en>
+            <de>Eckmarkierungen ausblenden</de>
+            <fr>Masquer les bandes d'avertissement</fr>
+            <es>Ocultar rayas de advertencia</es>
+            <ru>Скрыть предупреждение полосы</ru>
+            <pl>Ukryj paski ostrzegawcze</pl>
         </text>
     </l10n>
 </modDesc>
