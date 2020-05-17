@@ -80,14 +80,14 @@
         <fillType name="grass"            priceScale="1" supportsGreatDemand="true" disablePriceDrop="false"/>
 		<fillType name="grass_windrow"    priceScale="1" supportsGreatDemand="true" disablePriceDrop="false"/>
         <fillType name="drygrass" 		  priceScale="1" supportsGreatDemand="true" disablePriceDrop="false"/>
-        <fillType name="oilseedradish"    priceScale="1" supportsGreatDemand="true" disablePriceDrop="false"/>
+        <fillType name="oilseedradish"    priceScale="1" supportsGreatDemand="false" disablePriceDrop="false"/>
         <fillType name="dryGrass_windrow" priceScale="1" supportsGreatDemand="true" disablePriceDrop="false"/>
 		<fillType name="straw"        	  priceScale="1" supportsGreatDemand="true" disablePriceDrop="false"/>
         <fillType name="poplar" 		  priceScale="1" supportsGreatDemand="true" disablePriceDrop="false"/>
         <fillType name="manure"    		  priceScale="1" supportsGreatDemand="true" disablePriceDrop="false"/>
-        <fillType name="forage"           priceScale="1" supportsGreatDemand="true" disablePriceDrop="false"/>
+        <fillType name="forage"           priceScale="1" supportsGreatDemand="false" disablePriceDrop="false"/>
 		<fillType name="chaff"        	  priceScale="1" supportsGreatDemand="true" disablePriceDrop="false"/>
-        <fillType name="pigfood" 		  priceScale="1" supportsGreatDemand="true" disablePriceDrop="false"/>
+        <fillType name="pigfood" 		  priceScale="1" supportsGreatDemand="false" disablePriceDrop="false"/>
         <fillType name="carrot"    	  	  priceScale="1" supportsGreatDemand="true" disablePriceDrop="false"/>
         <fillType name="onion"            priceScale="1" supportsGreatDemand="true" disablePriceDrop="false"/>
 		<fillType name="hops"        	  priceScale="1" supportsGreatDemand="true" disablePriceDrop="false"/>
@@ -99,13 +99,13 @@
         <fillType name="sorghum"    	  priceScale="1" supportsGreatDemand="true" disablePriceDrop="false"/>
         <fillType name="triticale"        priceScale="1" supportsGreatDemand="true" disablePriceDrop="false"/>
 		<fillType name="fertilizer"       priceScale="1" supportsGreatDemand="true" disablePriceDrop="false"/>
-        <fillType name="seeds" 		  	  priceScale="1" supportsGreatDemand="true" disablePriceDrop="false"/>
-        <fillType name="lime"    		  priceScale="1" supportsGreatDemand="true" disablePriceDrop="false"/>
+        <fillType name="seeds" 		  	  priceScale="1" supportsGreatDemand="false" disablePriceDrop="false"/>
+        <fillType name="lime"    		  priceScale="1" supportsGreatDemand="false" disablePriceDrop="false"/>
         <fillType name="tobacco"          priceScale="1" supportsGreatDemand="true" disablePriceDrop="false"/>
 		<fillType name="compost"          priceScale="1" supportsGreatDemand="true" disablePriceDrop="false"/>
         <fillType name="mehl" 		  	  priceScale="1" supportsGreatDemand="true" disablePriceDrop="false"/>
         <fillType name="zucker"    	  	  priceScale="1" supportsGreatDemand="true" disablePriceDrop="false"/>
-        <fillType name="pellets"          priceScale="1" supportsGreatDemand="true" disablePriceDrop="false"/>
+        <fillType name="pellets"          priceScale="1" supportsGreatDemand="false" disablePriceDrop="false"/>
 		<fillType name="erde"        	  priceScale="1" supportsGreatDemand="true" disablePriceDrop="false"/>
         <fillType name="kies" 		  	  priceScale="1" supportsGreatDemand="true" disablePriceDrop="false"/>
         <fillType name="sand"    		  priceScale="1" supportsGreatDemand="true" disablePriceDrop="false"/>
@@ -164,12 +164,12 @@
 		<fillType name="milk"             priceScale="1" supportsGreatDemand="true" disablePriceDrop="false"/>
         <fillType name="liquidmanure" 	  priceScale="1" supportsGreatDemand="true" disablePriceDrop="false"/>
         <fillType name="digestate"    	  priceScale="1" supportsGreatDemand="true" disablePriceDrop="false"/>
-        <fillType name="liquidfertilizer" priceScale="1" supportsGreatDemand="true" disablePriceDrop="false"/>
-		<fillType name="herbicide"        priceScale="1" supportsGreatDemand="true" disablePriceDrop="false"/>
-        <fillType name="diesel" 	  	  priceScale="1" supportsGreatDemand="true" disablePriceDrop="false"/>
+        <fillType name="liquidfertilizer" priceScale="1" supportsGreatDemand="false" disablePriceDrop="false"/>
+		<fillType name="herbicide"        priceScale="1" supportsGreatDemand="false" disablePriceDrop="false"/>
+        <fillType name="diesel" 	  	  priceScale="1" supportsGreatDemand="false" disablePriceDrop="false"/>
         <fillType name="urea"    	      priceScale="1" supportsGreatDemand="true" disablePriceDrop="false"/>
         <fillType name="acetic_acid"      priceScale="1" supportsGreatDemand="true" disablePriceDrop="false"/>
-		<fillType name="weed"             priceScale="1" supportsGreatDemand="true" disablePriceDrop="false"/>
+		<fillType name="weed"             priceScale="1" supportsGreatDemand="false" disablePriceDrop="false"/>
 		<fillType name="alfalfaPellets"   priceScale="1" supportsGreatDemand="true" disablePriceDrop="false"/>
 		<fillType name="rum"              priceScale="1" supportsGreatDemand="true" disablePriceDrop="false"/>
 		<fillType name="met"              priceScale="1" supportsGreatDemand="true" disablePriceDrop="false"/>
@@ -188,18 +188,18 @@
 		<fillType name="dryAlfalfa_windrow"  priceScale="1" supportsGreatDemand="true" disablePriceDrop="false"/>
 		<fillType name="alfalfa_fermented" priceScale="1" supportsGreatDemand="true" disablePriceDrop="false"/>
 		<!-- -->
-		<fillType name="salt"             priceScale="1" supportsGreatDemand="true" disablePriceDrop="false"/>
-		<fillType name="water"            priceScale="0" supportsGreatDemand="true" disablePriceDrop="false"/>
+		<fillType name="salt"             priceScale="1" supportsGreatDemand="false" disablePriceDrop="false"/>
+		<fillType name="water"            priceScale="0" supportsGreatDemand="false" disablePriceDrop="false"/>
 		<fillType name="poplar"           priceScale="1" supportsGreatDemand="true" disablePriceDrop="false"/>
-		<fillType name="treesaplings"     priceScale="1" supportsGreatDemand="true" disablePriceDrop="false"/>
-		<fillType name="emptyPallet"      priceScale="1" supportsGreatDemand="true" disablePriceDrop="false"/>
+		<fillType name="treesaplings"     priceScale="1" supportsGreatDemand="false" disablePriceDrop="false"/>
+		<fillType name="emptyPallet"      priceScale="1" supportsGreatDemand="false" disablePriceDrop="false"/>
 		<fillType name="woodbarrel"       priceScale="1" supportsGreatDemand="true" disablePriceDrop="false"/>
 		<!-- Strawharwest addon -->
 		<fillType name="hayPellets"       priceScale="1" supportsGreatDemand="true" disablePriceDrop="false"/>
 		<fillType name="strawPellets"     priceScale="1" supportsGreatDemand="true" disablePriceDrop="false"/>
 		<fillType name="molasses"         priceScale="0.9" supportsGreatDemand="true" disablePriceDrop="false"/>
-		<fillType name="baleNet"          priceScale="0.9" supportsGreatDemand="true" disablePriceDrop="false"/>
-		<fillType name="baleTwine"        priceScale="0.9" supportsGreatDemand="true" disablePriceDrop="false"/>
+		<fillType name="baleNet"          priceScale="0.9" supportsGreatDemand="false" disablePriceDrop="false"/>
+		<fillType name="baleTwine"        priceScale="0.9" supportsGreatDemand="false" disablePriceDrop="false"/>
 		<!-- GrainDryer -->
 		<fillType name="dryWheat"     	  priceScale="1" supportsGreatDemand="true" disablePriceDrop="false"/>
 		<fillType name="dryBarley"     	  priceScale="1" supportsGreatDemand="true" disablePriceDrop="false"/>
